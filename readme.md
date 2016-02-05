@@ -59,8 +59,21 @@ cool links:
 - [make 8-bit art](http://make8bitart.com/)
 - [Chuck Close](http://www.pacegallery.com/artists/80/chuck-close)
 
+search terms:
+- <canvas> element
+- chars, text, unicode
+- bits, bytes
+- jpg, png, upload, download, render
+- alpha
+- hex color
+- rgb
+- click, window
+- other outputs, leds, arduino, raspberry pi, sensors...
+- halftone
+- printing, offset 
+
 ##( I ) ng
-Angular group project
+Angular group project. brainstorming mode.
 
 
 
