@@ -68,15 +68,17 @@ search terms:
 - hex color
 - rgb
 - click, window
-- other outputs, leds, arduino, raspberry pi, sensors...
 - halftone
 - printing, offset 
 
 ##( I ) ng
 Angular group project. brainstorming mode.
 
-
-
+##( J ) hardware
+- leds
+- arduino
+- raspberry pi
+- sensors
 
 
 ( A ) jontejada.com
