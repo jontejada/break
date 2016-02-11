@@ -9,6 +9,7 @@ currently a [gitHub Pages](https://pages.github.com/) hosted [live blog/site](ht
 need to:
 - build out **online resume**
 - add/edit blog posts (make readable/useful)
+	- JS fundamentals notes into here
 - add personal styling OR rebuild for scratch / without Poole
 
 ##( B ) discoverWeeklyHoard
@@ -19,9 +20,12 @@ the Spotify API Assigment [live site](http://www.jontejada.com/spotify-albums-an
 ##( C ) notReddit
 a [reddit clone](http://www.jontejada.com/notReddit/) built with Angular. this [repo](https://github.com/jontejada/notReddit) will be [rebuilt for Unit-3](https://github.com/gSchool/angular-curriculum/blob/master/Unit-3/09-unit-3-assessment.md) with:
 - backend with SQL, users/login
-- frontend with services and $resource (?)
+	- learn SQL query language
+- frontend with services and $resource(?)
 - authentication and authorization
 - admin functionality
+
+def
 
 ##( D ) SSV
 front end project [repo](https://github.com/jontejada/SSV) &  [live site](http://www.jontejada.com/SSV/).
@@ -44,6 +48,9 @@ need to:
 
 ##( F ) gitIt
 idea for a git & github tutorial / note compilation. will be built from these existing collaboration workflows [notes](http://www.jontejada.com/notes/2016/01/15/git/) and [repo](https://github.com/jontejada/git_github_work). will also incorporate ths [contribs repo](https://github.com/jontejada/contribs), which currently is running on heroku. 
+
+need to:
+- build a frontend
 
 ##( G ) tea
 Angular project built with Lissa Walzer. [repo](https://github.com/jontejada/tea) & [live site](http://www.jontejada.com/tea/#/)
@@ -71,22 +78,59 @@ search terms:
 - halftone
 - printing, offset 
 
-##( I ) ng
-Angular group project. brainstorming mode.
+##( I ) ng ngGroup ngGame ngTut ngTutorial
+Angular group project. brainstorming mode this week.
 
-##( J ) hardware
-- leds
-- arduino
-- raspberry pi
+as leader, I need to kickstart collaborative brainstorming this week. content:
+
+Shik's meeting notes:
+use external API or create our own
+use SQL database
+questions -- what tech, what visualization, what type of game, will it require nice looking interface / graphics
+
+my notes:
+###develop angular tut/game
+- regex.rocks
+###other ideas
+- music! 
+	- summary of my spotify idea w/ EchoNest link
+	- other potential APIs, esp. soundcloud
+- look at their repos, etc / ask
+	- Josh: outdoors/climbing, cooking, backend tech
+	- Mauricio: dev tools, music, good design 
+	- Sheik: music, ? proposed idea was __???__ asked for notes
+	- Jon: see social.md
+
+other things to consider:
+strengths, calendar/timeline, collab tools --> all in repo readme.md file or google doc, workflowy, etc 
+
+##( J ) circadian arduino
+- pull data from calendar, astronomy and meteorology APIs
+	- Mathematica historical data
+	- Weatherunderground and related
+	- US government sources, incl. NOAA, NASA, other departments
+	- Google data
+	- input and setup
+		- geolocation
+		- gps coordinates --> offline astro library saved to memory 
+- talk to Dan, Fou, Fou's bf, Jon, Liz, Tyler, others?
+- output options:
+	- cheap simple led(s)
+	- small led-powered lcd screen --> two way mirror projects
+	- simple monochrome lcd display 
+	- borrow / trade / get reccomendations
+- use my arduino
+	- what else needed? 100dollars
+- look into raspberry pi / python
 - sensors
+- write /find script 
+- housing / application
+	- bedside? coffeetable
+	- portable
+		-  wifi
+		-  li-ion, charging
+	- window
+		- light sensor
+		- webcam, gopro, dslr
 
-
-( A ) jontejada.com
-( B ) discoverWeeklyHoard (Cache?)
-( C ) notReddit
-( D ) SSV
-( E ) nearmeow.com
-( F ) gitIt
-( G ) tea
-( H ) pixel
-( I ) ng
+##( K ) e_c
