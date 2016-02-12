@@ -1,3 +1,5 @@
+*do not update*
+
 #portfolio work
 
 ##( A ) jontejada.com
@@ -79,30 +81,6 @@ search terms:
 - printing, offset 
 
 ##( I ) ng ngGroup ngGame ngTut ngTutorial
-Angular group project. brainstorming mode this week.
-
-as leader, I need to kickstart collaborative brainstorming this week. content:
-
-Shik's meeting notes:
-use external API or create our own
-use SQL database
-questions -- what tech, what visualization, what type of game, will it require nice looking interface / graphics
-
-my notes:
-###develop angular tut/game
-- regex.rocks
-###other ideas
-- music! 
-	- summary of my spotify idea w/ EchoNest link
-	- other potential APIs, esp. soundcloud
-- look at their repos, etc / ask
-	- Josh: outdoors/climbing, cooking, backend tech
-	- Mauricio: dev tools, music, good design 
-	- Sheik: music, ? proposed idea was __???__ asked for notes
-	- Jon: see social.md
-
-other things to consider:
-strengths, calendar/timeline, collab tools --> all in repo readme.md file or google doc, workflowy, etc 
 
 ##( J ) circadian arduino
 - pull data from calendar, astronomy and meteorology APIs
@@ -134,3 +112,4 @@ strengths, calendar/timeline, collab tools --> all in repo readme.md file or goo
 		- webcam, gopro, dslr
 
 ##( K ) e_c
+*do not update*
